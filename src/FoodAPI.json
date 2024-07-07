@@ -1,0 +1,391 @@
+{
+    "PopularFoodAPI": [
+        {
+            "id": 1,
+            "type": "popular",
+            "name": "Manchurian",
+            "image": "https://media.istockphoto.com/id/1334115358/photo/cabbage-manchurian.jpg?s=612x612&w=0&k=20&c=lZvW1lWr03mQszDbx4v59IAnxWacQ_Ti275hjj18hcE=",
+            "price": "80",
+            "rate": "4.9",
+            "time": "30",
+            "calories": "200",
+            "descriptions": "Manchurian: Embark on a flavor-packed journey with our tantalizing Manchurian. Indulge in a fusion of Asian tastes as you savor crispy, bite-sized vegetable or protein balls, coated in a flavorful blend of sweet, tangy, and spicy sauce. With each bite, experience the exciting contrast of textures and the harmonious dance of flavors. Our Manchurian is a culinary adventure that captures the essence of Indo-Chinese cuisine, offering a memorable and satisfying dining experience that leaves you craving for more."
+        },
+        {
+            "id": 2,
+            "type": "popular",
+            "name": "Fried Rice",
+            "image": "https://www.whiskaffair.com/wp-content/uploads/2018/11/Vegetable-Fried-Rice-2-3.jpg",
+            "price": "60",
+            "rate": "4.5",
+            "time": "20",
+            "calories": "150",
+            "descriptions": "Fried Rice: Delight in the harmony of flavors and textures with our signature fried rice dishes. Made to order, our fried rice combines fluffy grains with a medley of fresh vegetables, succulent proteins, and aromatic spices, all wok-tossed to perfection. Each mouthful offers a balance of savory and umami notes, creating a satisfying meal that's both comforting and satisfying. Elevate your dining experience with our delectable fried rice creations that showcase the art of Asian cuisine in every bite."
+        },
+        {
+            "id": 3,
+            "type": "popular",
+            "name": "Pizza",
+            "image": "https://c4.wallpaperflare.com/wallpaper/1017/647/742/food-pizza-still-life-hd-wallpaper-preview.jpg",
+            "price": "199",
+            "rate": "4.8",
+            "time": "40",
+            "calories": "300",
+            "descriptions": "Pizza: Discover a world of taste with our artisanal pizzas. Each pie is a masterpiece of flavors, starting with a hand-stretched crust that's crisp on the outside and tender inside. Topped with the finest ingredients, from the tangy tomato sauce to the melty cheese and a variety of savory toppings, every slice is a burst of savory delight. Whether you're a fan of classic Margherita or adventurous BBQ chicken, our pizzas are crafted to satisfy cravings and create unforgettable moments shared with friends and family."
+        },
+        {
+            "id": 4,
+            "type": "popular",
+            "name": "Burger",
+            "image": "https://cdn.pixabay.com/photo/2023/03/05/11/02/burger-7831128_1280.jpg",
+            "price": "99",
+            "rate": "4.7",
+            "time": "30",
+            "calories": "250",
+            "descriptions": "Burger: Experience the ultimate satisfaction with our gourmet burgers. Crafted to perfection, our burgers feature juicy, succulent patties made from premium meats or plant-based alternatives. Nestled within artisan buns and adorned with fresh toppings, our burgers deliver a symphony of flavors and textures in every bite. Whether you're a meat lover or a veggie enthusiast, our burgers redefine the classic comfort food, offering a culinary adventure that's both familiar and extraordinary."
+        },
+        {
+            "id": 5,
+            "type": "popular",
+            "name": "Pasta",
+            "image": "https://images.alphacoders.com/130/1308370.jpg",
+            "price": "70",
+            "rate": "4.6",
+            "time": "25",
+            "calories": "200",
+            "descriptions": "Pasta: Indulge in the timeless comfort of our pasta dishes. From the delicate twirls of angel hair to the hearty twists of penne, our pasta is meticulously cooked and paired with a symphony of sauces. Each bite is a harmony of taste and texture, as the flavors of our rich sauces meld with the perfectly al dente pasta. Elevate your dining experience with our handcrafted pasta creations that celebrate the artistry of Italian cuisine."
+        },
+        {
+            "id": 6,
+            "type": "popular",
+            "name": "Noodles",
+            "image": "https://img.freepik.com/premium-photo/bowl-noodles-with-vegetables-noodles_940863-11915.jpg",
+            "price": "50",
+            "rate": "4.5",
+            "time": "20",
+            "calories": "150",
+            "descriptions": "Noodles: Embark on a flavorful journey with our exquisite noodle dishes. From the silky strands of traditional Pad Thai to the rich umami of savory ramen, our noodles are a canvas for authentic Asian flavors. Savor the perfect blend of textures as you explore the variety of ingredients that come together in each bowl, creating a memorable dining experience that satisfies both the palate and the soul."
+        },
+        {
+            "id": 7,
+            "type": "popular",
+            "name": "Sandwich",
+            "image": "https://img.freepik.com/premium-photo/two-sandwiches-made-slice-meat-cheese-tomatoes-toasted-bread-wooden-table_244366-394.jpg",
+            "price": "40",
+            "rate": "4.4",
+            "time": "15",
+            "calories": "100",
+            "descriptions": "Sandwich: A delightful creation that brings together layers of flavors between slices of freshly baked bread. From classic combinations like turkey and cranberry to creative veggie medleys, our sandwiches are a harmony of tastes and textures, offering a convenient and satisfying meal for any time of day. Bite into a world of culinary creativity with every bite of our handcrafted sandwiches."
+        },
+        {
+            "id": 8,
+            "type": "popular",
+            "name": "Rolls",
+            "image": "https://c1.wallpaperflare.com/preview/564/844/49/nem-chinese-vegetables-chinese-cabbage.jpg",
+            "price": "30",
+            "rate": "4.3",
+            "time": "10",
+            "calories": "50",
+            "descriptions": "Rolls: Unwrap a burst of taste with our delectable rolls. A symphony of flavors awaits as you bite into soft, freshly made wraps, enveloping a medley of succulent fillings. Whether you prefer tender grilled meats, vibrant veggies, or a combination of both, our rolls are a handheld delight that offers a harmonious blend of textures and tastes. Elevate your dining experience with our diverse selection of rolls, perfect for on-the-go indulgence or a satisfying meal that satisfies your cravings in every bite."
+        },
+        {
+            "id": 9,
+            "type": "popular",
+            "name": "Momos",
+            "image": "https://e1.pxfuel.com/desktop-wallpaper/14/944/desktop-wallpaper-veg-momos-recipe-momos-recipe-street-style-momos-momo-food.jpg",
+            "price": "50",
+            "rate": "4.2",
+            "time": "15",
+            "calories": "100",
+            "descriptions": "Momos: Dive into a world of savory delight with our exquisite momos. These delicate dumplings, filled with a delectable mixture of meats or vegetables, are lovingly crafted to perfection. Steamed to retain their tender texture, momos offer a delightful combination of flavors as you dip them into our special sauces. With each bite-sized morsel, experience the culinary artistry of Himalayan cuisine, bringing together the essence of tradition and innovation in a single bite. Our momos are an irresistible treat that's sure to captivate your taste buds and leave you craving more."
+        },
+        {
+            "id": 10,
+            "type": "popular",
+            "name": "Ice Cream",
+            "image": "https://media.istockphoto.com/id/1161805849/photo/strawberry-vanilla-chocolate-ice-cream-with-waffle-cone-on-marble-stone-backgrounds.jpg?s=612x612&w=0&k=20&c=BXObHKE0gbA2autsMZGFeEmK2xGKYdJBbM1_ig0Boyk=",
+            "price": "40",
+            "rate": "4.1",
+            "time": "10",
+            "calories": "50",
+            "descriptions": "Ice Cream: Indulge in pure delight with our premium ice creams. Each scoop is a creamy masterpiece, carefully churned to achieve the perfect balance of velvety texture and rich flavors. From classic vanilla to adventurous salted caramel swirls, our ice creams offer a symphony of tastes that tantalize your senses. Whether enjoyed in a cone, cup, or as a topping, our ice creams are a timeless treat that brings joy and comfort, creating sweet moments that linger long after the last spoonful."
+        },
+        {
+            "id": 11,
+            "type": "popular",
+            "name": "French fries",
+            "image": "https://wallpaperaccess.com/full/1747258.jpg",
+            "price": "30",
+            "descriptions": "French fries are a beloved side dish made from sliced potatoes that are typically deep-fried until golden and crispy. They're seasoned with salt and can be enjoyed on their own or paired with various dipping sauces. These thin and crunchy delights are a popular snack around the world, known for their satisfying texture and comforting taste."
+        }
+    ],
+    "GujaratiFoodAPI": [
+        {
+            "id": 1,
+            "type": "gujratiFood",
+            "name": "Dhokla",
+            "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/10/khaman-dhokla-recipe.jpg",
+            "price": "75",
+            "rate": "4.9",
+            "time": "30",
+            "calories": "200",
+            "descriptions": "Dhokla: Experience the light and spongy delight of our authentic dhokla. A staple of Indian cuisine, our dhokla is a savory steamed cake made from fermented chickpea flour. Its fluffy texture is complemented by a burst of tangy and mildly spicy flavors, courtesy of our special seasoning. Served as bite-sized pieces, dhokla is perfect as a snack or part of a larger meal. Immerse yourself in the traditional flavors of India with each bite of our dhokla, celebrating the perfect harmony of taste and culture."
+        },
+        {
+            "id": 2,
+            "type": "gujratiFood",
+            "name": "Khandvi",
+            "image": "https://rakskitchen.net/wp-content/uploads/2013/11/10921796334_c5b1f9fcda_z-500x375.jpg",
+            "price": "80",
+            "rate": "4.8",
+            "time": "25",
+            "calories": "150",
+            "descriptions": "Khandvi: Delight in the intricate artistry of our Khandvi, a popular Indian snack. Made from gram flour and yogurt, it's a rolled creation that embodies a unique balance of flavors and textures. The thin, silky rolls are delicately seasoned with mustard seeds and grated coconut, creating a harmonious blend of savory and nutty notes. With every bite-sized piece, experience the culinary craftsmanship of this Gujarati delicacy, as the soft texture melts in your mouth, leaving behind a trail of subtle spices that linger on the palate."
+        },
+        {
+            "id": 3,
+            "type": "gujratiFood",
+            "name": "Thepla",
+            "image": "https://thumbs.dreamstime.com/b/indian-parantha-stuffed-indian-bread-methi-thepla-stack-indian-flatbread-methi-paratha-fenugreek-gujarati-thepla-potato-125773599.jpg",
+            "price": "40",
+            "rate": "4.7",
+            "time": "20",
+            "calories": "100",
+            "descriptions": "Thepla: Immerse yourself in the heartwarming flavors of our authentic Thepla, a cherished Indian flatbread. Made from whole wheat flour and an array of aromatic spices, each Thepla is a thin, round masterpiece that boasts a touch of earthy warmth. Perfectly cooked on a griddle, it's a versatile companion to a variety of dishes, from curries to chutneys. Whether enjoyed as a snack or a side, Thepla embodies the essence of Indian comfort food, offering a simple yet soul-satisfying experience with every bite."
+        },
+        {
+            "id": 4,
+            "type": "gujratiFood",
+            "name": "Handvo",
+            "image": "https://infostationsite.files.wordpress.com/2015/11/32421handvo1.jpg",
+            "price": "60",
+            "rate": "4.6",
+            "time": "25",
+            "calories": "150",
+            "descriptions": "Handvo: Embark on a culinary journey with our Handvo, a traditional Indian savory cake. Crafted from a blend of lentils, rice, and vegetables, Handvo boasts a unique texture that's both soft and slightly crispy. Infused with spices and tempered with mustard seeds, curry leaves, and more, it offers a burst of flavors that delight the senses. Baked to golden perfection, each slice of Handvo showcases the artistry of Indian cooking, creating a hearty and flavorful experience that reflects the rich tapestry of regional cuisine."
+        },
+        {
+            "id": 5,
+            "type": "gujratiFood",
+            "name": "Fafda",
+            "image": "https://img.freepik.com/premium-photo/fafda-food_57665-9633.jpg",
+            "price": "100",
+            "rate": "4.5",
+            "time": "30",
+            "calories": "200",
+            "descriptions": "Fafda: Discover the captivating crunch of our Fafda, a popular Gujarati snack. Crafted from besan (chickpea flour) and a blend of spices, Fafda is a crispy, ribbon-like creation that's deep-fried to perfection. With a hint of spiciness and a touch of saltiness, it offers a delightful flavor profile that's both addictive and satisfying. Often enjoyed with a side of tangy chutneys, Fafda brings a burst of texture and taste to your palate, inviting you to savor the savory essence of Indian street food culture."
+        },
+        {
+            "id": 6,
+            "type": "gujratiFood",
+            "name": "Undhiyu",
+            "image": "https://www.secondrecipe.com/wp-content/uploads/2020/10/undhiyu-final-720x532.jpg",
+            "price": "159",
+            "rate": "4.4",
+            "time": "40",
+            "calories": "250",
+            "descriptions": "Undhiyu: Immerse yourself in the rich flavors of our Undhiyu, a traditional Gujarati dish that's a celebration of seasonal vegetables. A melange of various vegetables, including tender beans, potatoes, and purple yam, are slow-cooked to perfection with an array of spices and aromatic herbs. The result is a harmonious blend of textures and tastes that reflect the vibrant essence of Gujarati cuisine. Undhiyu is a true culinary masterpiece, capturing the essence of tradition and farm-fresh goodness in every hearty and flavorful bite."
+        },
+        {
+            "id": 7,
+            "type": "gujratiFood",
+            "name": "Shrikhand",
+            "image": "https://thumbs.dreamstime.com/b/indian-sweet-kesar-shrikhand-dish-made-strained-yogurt-widely-popular-maharashtrian-cuisine-gujarati-cuisine-73797496.jpg",
+            "price": "50",
+            "rate": "4.3",
+            "time": "15",
+            "calories": "100",
+            "descriptions": "Shrikhand: Indulge in the sublime sweetness of our Shrikhand, a beloved Indian dessert. Made from strained yogurt, Shrikhand is a creamy delicacy that's delicately flavored with saffron, cardamom, and a hint of rose water. Its velvety texture is complemented by the aromatic spices, creating a symphony of flavors that dance on the palate. Whether enjoyed on its own or as a luxurious accompaniment to puris, Shrikhand is a decadent treat that captures the essence of Indian culinary artistry, offering a blissful and fragrant journey through each spoonful."
+        }
+    ],
+    "PunjabiFoodAPI": [
+        {
+            "id": 1,
+            "type": "punjabiFood",
+            "name": "Sarso Da Saag and Makki Di Roti",
+            "image": "https://www.bigbasket.com/media/uploads/recipe/w-l/1826_1_1.jpg",
+            "price": "110",
+            "rate": "4.9",
+            "time": "40",
+            "calories": "250",
+            "descriptions": "Sarso Da Saag and Makki Di Roti: Delight in the soul-soothing embrace of our iconic Punjabi duo. Sarso Da Saag, a hearty dish made from mustard greens and a medley of spices, offers a burst of earthy flavors that pay homage to rural traditions. Paired with the rustic charm of Makki Di Roti, a maize flour flatbread, the combination creates a harmonious meal that celebrates the rich agricultural heritage of Punjab. Each bite is a journey through the fields, invoking warmth and nostalgia, as you savor the authenticity and heartiness of Punjabi cuisine."
+        },
+        {
+            "id": 2,
+            "type": "punjabiFood",
+            "name": "Chole Bhature",
+            "image": "https://st2.depositphotos.com/49005766/46430/i/450/depositphotos_464300244-stock-photo-indian-breakfast-poori-chickpea-chana.jpg",
+            "price": "99",
+            "rate": "4.8",
+            "time": "30",
+            "calories": "200",
+            "descriptions": "Chole Bhature: Experience the quintessential flavors of North India with our Chole Bhature. The dish combines perfectly spiced chickpea curry (chole) with deep-fried bread (bhature), creating a symphony of taste and texture. The chickpeas are simmered in a fragrant blend of spices, resulting in a rich and hearty curry, while the bhature are golden and crispy on the outside, yet soft on the inside. Indulge in the perfect balance of savory and indulgence, as you savor the aromatic spices and the delightful contrast between the curry and the bread. Chole Bhature is an irresistible classic that captures the essence of Indian comfort food."
+        },
+        {
+            "id": 3,
+            "type": "punjabiFood",
+            "name": "Dal Makhani",
+            "image": "https://media.istockphoto.com/id/1170374719/photo/dal-makhani-at-dark-background.jpg?s=612x612&w=0&k=20&c=49yLaUAE2apakVk2AAiRQimZd98WtSjIQ0hzCzWsmns=",
+            "price": "60",
+            "rate": "4.7",
+            "time": "20",
+            "calories": "150",
+            "descriptions": "Dal Makhani: Delight in the velvety richness of our Dal Makhani, a cherished Indian lentil dish. Meticulously cooked black lentils and kidney beans are simmered to perfection in a luscious blend of cream, butter, and aromatic spices. The result is a harmonious symphony of flavors that's both creamy and indulgent. With each spoonful, savor the slow-cooked essence of tradition and the deep, satisfying warmth of spices. Dal Makhani is a culinary masterpiece that invites you to experience the depth of Indian cuisine, creating a soul-nourishing journey through the heart of flavors."
+        },
+        {
+            "id": 4,
+            "type": "punjabiFood",
+            "name": "Paneer Tikka",
+            "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18809.jpg",
+            "price": "80",
+            "rate": "4.6",
+            "time": "25",
+            "calories": "200",
+            "descriptions": "Paneer Tikka: Immerse yourself in the enticing flavors of our Paneer Tikka, a popular Indian appetizer. Succulent cubes of paneer (Indian cottage cheese) are marinated in a vibrant blend of yogurt, aromatic spices, and herbs. Grilled or baked to perfection, the paneer is infused with a smoky and charred essence that's both irresistible and satisfying. With every bite, experience the perfect balance of tender paneer and the zing of spices, creating a delightful harmony that celebrates the art of Indian grilling. Paneer Tikka is a mouthwatering treat that captures the essence of Indian culinary innovation."
+        },
+        {
+            "id": 5,
+            "type": "punjabiFood",
+            "name": "Rajma Chawal",
+            "image": "https://thumbs.dreamstime.com/b/punjabi-cuisine-rajma-chawal-indian-vegetarian-meal-rajma-chawal-salad-top-view-114181130.jpg",
+            "price": "70",
+            "rate": "4.5",
+            "time": "20",
+            "calories": "150",
+            "descriptions": "Rajma Chawal: A North Indian favorite, Rajma Chawal features tender kidney beans in a flavorful tomato-based gravy, paired with fragrant Basmati rice. The dish embodies a comforting balance of textures and spices, offering a hearty and aromatic experience that's both nostalgic and satisfying. It's a cherished classic that captures the essence of home-cooked warmth and traditional Indian flavors."
+        },
+        {
+            "id": 6,
+            "type": "punjabiFood",
+            "name": "Kadai Paneer",
+            "image": "https://t4.ftcdn.net/jpg/03/38/36/61/360_F_338366121_VN1tkD0yOioCpXVGfRCym9iLrSZE0T7L.jpg",
+            "price": "90",
+            "rate": "4.4",
+            "time": "25",
+            "calories": "200",
+            "descriptions": "Kadai Paneer: A delightful Indian dish where succulent paneer (cottage cheese) is cooked with colorful bell peppers, onions, and a blend of aromatic spices in a traditional kadai (wok). The result is a flavorful and slightly smoky curry that perfectly complements the paneer's creamy texture. This dish offers a harmonious blend of spices and vibrant vegetables, creating a delicious and visually appealing experience that captures the essence of Indian cuisine."
+        },
+        {
+            "id": 7,
+            "type": "punjabiFood",
+            "name": "Aloo Paratha",
+            "image": "https://t4.ftcdn.net/jpg/02/29/55/23/360_F_229552315_VsKpPRRFQ3BWbMA6w2LCOOqeOJWJDIWZ.jpg",
+            "price": "30",
+            "rate": "4.3",
+            "time": "15",
+            "calories": "100",
+            "descriptions": "Aloo Paratha: A beloved Indian flatbread stuffed with a spiced mixture of mashed potatoes and aromatic herbs. The paratha is skillfully cooked on a griddle until golden and flaky, revealing a satisfying contrast between the crisp exterior and the flavorful, soft interior. This dish embodies the essence of comfort food, offering a warm and hearty experience with each bite. Aloo Paratha is a culinary delight that showcases the art of combining simple ingredients into a delicious and wholesome creation."
+        },
+        {
+            "id": 8,
+            "type": "punjabiFood",
+            "name": "Punjabi Lassi",
+            "image": "https://t3.ftcdn.net/jpg/04/81/51/96/360_F_481519662_1Vqr3aA1SvOPFa4YbGsOCTpYXcpCZYk5.jpg",
+            "price": "40",
+            "rate": "4.2",
+            "time": "10",
+            "calories": "50",
+            "descriptions": "Punjabi Lassi: Experience the refreshing delight of our Punjabi Lassi, a traditional yogurt-based drink. Made with thick yogurt, a touch of sweetness, and sometimes a hint of aromatic spices, Lassi is a creamy and cooling beverage that offers a soothing escape from the heat. Whether sipped as a standalone treat or paired with a hearty meal, its velvety texture and balanced flavors create a satisfying and rejuvenating experience that's a cherished part of Punjabi cuisine."
+        }
+    ],
+    "PizzaFoodAPI": [
+        {
+            "id": 1,
+            "type": "pizzaFoods",
+            "name": "Margherita",
+            "image": "https://www.stroke.org/-/media/aha/recipe/recipe-images/classic-margherita-pizza-with-whole-wheat-pizza-crust.jpg",
+            "price": "99",
+            "descriptions": "Margherita pizza is a classic Italian creation, known for its simplicity and exquisite flavors. It features a thin, crispy crust topped with rich tomato sauce, fresh mozzarella cheese, and fragrant basil leaves. The combination of these high-quality ingredients creates a harmonious balance of taste, making Margherita pizza a timeless favorite among pizza enthusiasts worldwide."
+        },
+        {
+            "id": 2,
+            "type": "pizzaFoods",
+            "name": "Farm House",
+            "image": "https://thebakernest.com/wp-content/uploads/2021/04/Farm-House-Pizza.jpg",
+            "price": "139",
+            "descriptions": "Farmhouse pizza is a hearty and satisfying choice that brings the rustic flavors of the countryside to your plate. This pizza typically showcases a thin or thick crust topped with a medley of ingredients like smoky ham, savory sausage, fresh vegetables like bell peppers, mushrooms, and onions, all crowned with gooey mozzarella cheese. The blend of these savory components results in a pizza that's both comforting and packed with diverse flavors."
+        },
+        {
+            "id": 3,
+            "type": "pizzaFoods",
+            "name": "Peppy Paneer",
+            "image": "https://d3gy1em549lxx2.cloudfront.net/13677188-6708-443e-b1e9-ddface810db8.jpg",
+            "price": "199",
+            "descriptions": "Peppy Paneer pizza is a delightful fusion of Indian and Italian cuisine. With a crispy crust as the base, it's generously smeared with tangy tomato sauce and layered with chunks of marinated paneer (Indian cottage cheese), vibrant bell peppers, onions, and aromatic spices. The combination of the paneer's creamy texture and the zesty flavors of the toppings creates a uniquely satisfying pizza experience with a hint of Indian flair."
+        },
+        {
+            "id": 4,
+            "type": "pizzaFoods",
+            "name": "Mexican Green Wave",
+            "image": "https://www.antonio-carluccio.com/wp-content/uploads/2020/07/Mexican-Green-Wave-pizza-845x627.jpg",
+            "price": "299",
+            "descriptions": "The Mexican Green Wave pizza offers a zesty and vibrant twist to traditional pizza. Featuring a flavorful thin or thick crust, it's adorned with zesty salsa sauce and topped with a mix of fresh ingredients like jalapeños, bell peppers, red onions, and sometimes even corn and black beans. The melty cheese adds a creamy balance to the spiciness, resulting in a pizza that captures the essence of Mexican cuisine with a delicious kick."
+        },
+        {
+            "id": 5,
+            "type": "pizzaFoods",
+            "name": "Deluxe Veggie",
+            "image": "https://c4.wallpaperflare.com/wallpaper/234/543/684/food-pizza-wallpaper-preview.jpg",
+            "price": "159",
+            "descriptions": "The Deluxe Veggie pizza is a vegetarian delight that combines an array of colorful and nutritious toppings. The crust serves as a foundation for a rich tomato sauce and a medley of fresh vegetables such as mushrooms, bell peppers, red onions, olives, and sometimes even spinach. This pizza is a symphony of flavors and textures, with the vegetables' natural sweetness and the tangy tomato sauce working harmoniously to create a satisfying and well-rounded culinary experience."
+        },
+        {
+            "id": 6,
+            "type": "pizzaFoods",
+            "name": "Veg Extravaganza",
+            "image": "https://c4.wallpaperflare.com/wallpaper/1017/647/742/cheese-pizza-tomatoes-olives-bacon-hd-wallpaper-preview.jpg",
+            "price": "259",
+            "descriptions": "The Veg Extravaganza pizza is a feast for vegetarian pizza enthusiasts. It boasts a generous spread of tomato sauce on a crispy crust, adorned with a lavish assortment of vibrant and flavorful toppings. This includes a diverse mix of vegetables like bell peppers, red onions, mushrooms, sweet corn, and black olives, creating a symphony of colors and tastes. The blend of these fresh ingredients and melted cheese results in a pizza that lives up to its extravagant name, offering a true celebration of vegetarian flavors."
+        },
+        {
+            "id": 7,
+            "type": "pizzaFoods",
+            "name": "Cheese n Corn",
+            "image": "https://data2.1freewallpapers.com/download/corn-cheese-pizza-1920x1200.jpg",
+            "price": "99",
+            "descriptions": "Cheese n Corn pizza is a simple yet satisfying option that caters to those who enjoy the essence of cheesy goodness. This pizza features a buttery crust topped with a layer of creamy, melted cheese, complemented by the sweetness of golden corn kernels. The minimalistic combination of cheese and corn creates a harmonious blend of flavors and textures, making it a comfort food choice for those looking for a lighter and delightful pizza experience."
+        }
+    ],
+    "RollsFoodAPI": [
+        {
+            "id": 1,
+            "type": "roolsFoods",
+            "name": "Paneer Tikka Roll",
+            "image": "https://1.bp.blogspot.com/-YMiG9Fczylc/WJSmtZMNQ3I/AAAAAAAAAzs/6ru2B_ipb4QTolRgXRnhOwp3e_uvOLi7wCEw/s1600/Paneer%2Btikka%2Bkathi%2Broll%2B3.jpg",
+            "price": "50",
+            "descriptions": "Paneer Tikka Roll is a popular Indian street food and appetizer. It features marinated cubes of paneer (Indian cottage cheese) that are skewered and grilled until smoky and tender. These flavorful paneer pieces are then wrapped in a soft roti or flatbread along with fresh veggies and tangy sauces, creating a delightful and satisfying roll that combines spicy and savory flavors."
+        },
+        {
+            "id": 2,
+            "type": "roolsFoods",
+            "name": "Veggie Roll",
+            "image": "https://c1.wallpaperflare.com/preview/564/844/49/nem-chinese-vegetables-chinese-cabbage.jpg",
+            "price": "40",
+            "descriptions": "A Veggie Roll is a delightful dish made by wrapping a variety of sautéed or grilled vegetables in a soft flatbread or tortilla. This roll is often accompanied by a flavorful sauce or dressing, enhancing the combination of textures and tastes. It's a popular choice among vegetarians and those looking for a wholesome and tasty meal on the go."
+        },
+        {
+            "id": 3,
+            "type": "roolsFoods",
+            "name": "Chicken Shawarma",
+            "image": "https://ghanemtech.fra1.digitaloceanspaces.com/dlwaqty/265775/3731401-124089081.jpg",
+            "price": "60",
+            "descriptions": "A Chicken Shawarma Roll is a mouthwatering street food item originating from the Middle East. Thin slices of marinated and grilled chicken are typically wrapped in a pita or flatbread along with crisp vegetables, tahini or garlic sauce, and sometimes pickles. This roll offers a harmonious blend of savory, tangy, and aromatic flavors, making it a beloved choice for those craving a satisfying and flavorful meal."
+        },
+        {
+            "id": 4,
+            "type": "roolsFoods",
+            "name": "Keema Roll",
+            "image": "https://i.ytimg.com/vi/3qC2j4xoKXI/maxresdefault.jpg",
+            "price": "70",
+            "descriptions": "A Keema Roll is a flavorful dish hailing from South Asian cuisine. It consists of spiced minced meat, often lamb or chicken, cooked with aromatic spices and herbs. The cooked keema is then wrapped in a soft flatbread or paratha, creating a savory and hearty roll. This dish offers a balance of rich flavors and textures, making it a popular choice among meat enthusiasts."
+        },
+        {
+            "id": 5,
+            "type": "roolsFoods",
+            "name": "Pizza Bread Roll",
+            "image": "https://i.pinimg.com/originals/73/02/dc/7302dcdd279c8f5fcae6d337c31f8df1.jpg",
+            "price": "80",
+            "descriptions": "A Pizza Bread Roll is a delightful snack that combines the flavors of pizza with a convenient, handheld form. It's made by spreading pizza sauce and cheese over a slice of bread, adding toppings like pepperoni, vegetables, or other favorite pizza ingredients, and then rolling it up tightly. The roll is usually baked until the bread is crispy and the cheese is melted, resulting in a portable and flavorful treat reminiscent of pizza flavors."
+        }
+    ]
+}
